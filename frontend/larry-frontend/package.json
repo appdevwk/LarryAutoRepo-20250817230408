@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@capacitor/cli": "^7.4.2",
+    "@capacitor/cli": "^8.5.3",
     "@capacitor/core": "^7.4.2",
     "cra-template-pwa": "2.0.0",
     "react": "^19.1.1",
